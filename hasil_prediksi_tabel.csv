@@ -1,0 +1,9 @@
+Max Depth,Criterion,Akurasi Prediksi
+3.0,gini,74.0
+3.0,entropy,74.0
+5.0,gini,72.0
+5.0,entropy,71.0
+7.0,gini,70.0
+7.0,entropy,72.5
+,gini,67.0
+,entropy,70.0
